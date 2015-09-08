@@ -14,6 +14,9 @@ public class Test {
 	    for(int j= 0;j<5;j++){
 	    	System.out.println(j+1);
 	    }
+	    for(int k= 0;k<5;k++){
+	    	System.out.println(k+1);
+	    }
 	    
 	    
 	
