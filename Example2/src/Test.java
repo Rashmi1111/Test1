@@ -6,7 +6,11 @@ public class Test {
 		System.out.println("Welcome to Acenture");
 		
 		System.out.println("Accenture");
-	System.out.println("test");	
+	    System.out.println("test");	
+	    for(int i= 0;i<5;i++){
+	    	System.out.println(i);
+	    }
+	
 
 	}
 
